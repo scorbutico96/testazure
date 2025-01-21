@@ -1,0 +1,8 @@
+sonar.projectKey=testtest00
+sonar.projectName=test00
+sonar.projectVersion=1.0
+sonar.sources=.
+sonar.host.url=http://sonarqube.sat.almaviva.it:9000
+sonar.login=sqp_651f085e97a810c8014dd6a7e67651011ba450f5
+sonar.qualitygate.wait=true
+
